@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # IPL Match Winner Prediction
 
 This is a simple machine learning project to predict the winner of an IPL match.
@@ -82,4 +81,3 @@ project is mainly for learning how to build an end-to-end machine learning
 workflow.
 =======
 # ipl-match-winner-prediction
->>>>>>> 7e948b3061aee810b8eb81d1cac304d56baf8f8f
