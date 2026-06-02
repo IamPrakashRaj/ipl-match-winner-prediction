@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # IPL Match Winner Prediction
 
 This is a simple machine learning project to predict the winner of an IPL match.
@@ -79,3 +80,6 @@ This is not meant to be a perfect cricket prediction system. IPL matches depend
 on many things like playing XI, pitch, injuries, weather, and player form. This
 project is mainly for learning how to build an end-to-end machine learning
 workflow.
+=======
+# ipl-match-winner-prediction
+>>>>>>> 7e948b3061aee810b8eb81d1cac304d56baf8f8f
