@@ -284,8 +284,8 @@ def get_models(preprocessor):
                 ),
             ]
         )
-    except ImportError:
-        print("XGBoost is not installed, so I am skipping that model.")
+    except Exception as error:
+        print(f"XGBoost is not available on this system, so I am skipping it. Reason: {error}")
 
     return models
 
